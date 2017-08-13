@@ -98,7 +98,6 @@ export default App;
 
 // notes:
 // add capability to add recipe name and ingredients
-// recipes show in list
 // can click on recipes and view it
 // save recipes in browser local storage, refresh and still there
 // add capability to edit and delete recipes
